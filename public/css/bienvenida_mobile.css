@@ -75,10 +75,11 @@
 
         .user-details > h1 {
             margin: 3% 0% 3% 0%;
-            font-size: 6em;
+            font-size: 5em;
             text-align: center;
             font-family: Wrestlemania;
             text-transform: lowercase;
+            line-height: 75%;
         }
         
         .user-motto {
